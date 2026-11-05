@@ -1,7 +1,7 @@
 # AI-Related Research Papers in Marketing Journals
 
 ## Overview
-This project identifies and collects AI-related research papers published between 2022 and 2026 in six leading marketing and management journals:
+This code identifies and collects AI-related research papers published between 2022 and 2026 in six leading marketing and management journals:
 
 - Marketing Science (MS)
 - Management Science (MGSC)
@@ -9,6 +9,8 @@ This project identifies and collects AI-related research papers published betwee
 - Journal of Marketing (JM)
 - Journal of Consumer Research (JCR)
 - Quantitative Marketing and Economics (QME)
+
+Besides, there are some working papers from conferences are picked as well: Marketing Science (ISMS), QME, SICS, AIML Conference (only keynotes), CODE @ MIT (plenary sessions only).
 
 The goal is to build a structured dataset of research papers related to artificial intelligence, machine learning, and their applications.
 
